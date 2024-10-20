@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+  height: 750px;
+}
+table,th,td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  padding: 10px;
+}
+caption {
+  font-size: 30px;
+}
+tr {
+  text-align: left;
+}
+tr.calendar_num {
+  height: 25px;
+  background-color: rgb(244, 247, 209);
+}
+th {
+  height: 30px;
+  text-align: center;
+  
+}
+td {
+  padding: 10px;
+}
